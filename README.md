@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>2nd Year CSE @ Gokaraju Lailavathi Engineering College, Hyderabad</b><br>
-  CGPA: 9.48/10 &nbsp;|&nbsp; Sugar Labs Contributor &nbsp;|&nbsp; GSoC 2026 Applicant
+  CGPA: 9.48/10 &nbsp;|&nbsp; Sugar Labs Contributor &nbsp;|&nbsp; GSoC 2026 Contributor
 </p>
 
 <p align="center">
@@ -23,11 +23,6 @@ I am actively contributing to Sugar Labs and applying for **Google Summer of Cod
 | [#68](https://github.com/sugarlabs/physics/pull/68) | physics | 🔍 Closed* | Diagnosed IndexError crash in pygame 2.x key handling — sugargame event loop |
 | [#65](https://github.com/sugarlabs/physics/pull/65) | physics | 🔄 Open | CCD fix to prevent collision tunneling in Box2D physics simulation |
 | [#62](https://github.com/sugarlabs/physics/issues/62) | physics | 🔧 In Progress | Fixing two cursors bug on Ubuntu 24.04 when toolbars are expanded |
-
-**GSoC 2026 Ideas I'm applying for:**
-1. GTK4 Transition Part 1 — Fructose Activity Set
-2. Speak-AI Multilingual Support *(native Telugu speaker — direct TTS validation)*
-3. Automated Release Pipeline for Music Blocks
 
 ---
 
