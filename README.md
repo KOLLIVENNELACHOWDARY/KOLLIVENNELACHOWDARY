@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>2nd Year CSE @ Gokaraju Lailavathi Engineering College, Hyderabad</b><br>
-  CGPA: 9.48/10 &nbsp;|&nbsp; Sugar Labs Contributor &nbsp;|&nbsp; GSoC 2026 Contributor
+  CGPA: 9.48/10 &nbsp;|&nbsp; Sugar Labs Contributor &nbsp;|&nbsp; GSSoC 2026 Contributor
 </p>
 
 <p align="center">
