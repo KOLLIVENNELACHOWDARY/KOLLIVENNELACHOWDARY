@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>2nd Year CSE @ Gokaraju Lailavathi Engineering College, Hyderabad</b><br>
-  CGPA: 9.48/10 &nbsp;|&nbsp; Sugar Labs Contributor &nbsp;|&nbsp; GSSoC 2026 Contributor
+  CGPA: 9.48/10 &nbsp;|&nbsp; Sugar Labs Contributor &nbsp;
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🍬 Open Source — Sugar Labs
 
-I am actively contributing to Sugar Labs and applying for **Google Summer of Code 2026**.
+I am actively contributing to Sugar Labs.
 
 | PR | Repository | Status | What I did |
 |---|---|---|---|
